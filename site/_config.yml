@@ -1,0 +1,40 @@
+# ---- Site settings (edit these) ----
+title: Elisa
+tagline: Notes on the Power Platform
+description: >-
+  A place to write down what I learn about Power Apps, Power Automate,
+  and SharePoint, plus a few project write-ups.
+url: "https://yourusername.github.io"   # change to your real GitHub Pages URL
+baseurl: ""                              # leave empty for username.github.io
+author:
+  name: Elisa
+  email: you@example.com
+  github: yourusername
+  linkedin: yourusername
+
+# ---- Build settings (usually no need to touch) ----
+markdown: kramdown
+permalink: /blog/:title/
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: project
+
+exclude:
+  - README.md

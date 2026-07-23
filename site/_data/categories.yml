@@ -1,0 +1,25 @@
+# Blog categories.
+# key   = the value you put in a post's front matter (category: power-platform)
+# name  = how it's displayed on the site
+# icon  = filename in _includes/icons/ (without .svg)
+# blurb = one-line description shown on the blog index
+
+- key: power-platform
+  name: Power Platform
+  icon: power-platform
+  blurb: Power Apps and Power Automate — flows, approvals, and app patterns.
+
+- key: sharepoint
+  name: SharePoint
+  icon: sharepoint
+  blurb: Lists, permissions, and the quirks of building on SharePoint.
+
+- key: debugging-notes
+  name: Debugging Notes
+  icon: debugging-notes
+  blurb: Problems I hit, what actually caused them, and the fix.
+
+- key: research-notes
+  name: Research Notes
+  icon: research-notes
+  blurb: Short write-ups of things I dug into and found worth sharing.
