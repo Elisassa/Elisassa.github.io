@@ -6,48 +6,50 @@ permalink: /about/
 ---
 
 <figure class="about-photo">
-  <img src="{{ '/assets/images/elisa.jpg' | relative_url }}" alt="Elisa at a cafe, about to eat pastries from a takeout box, with a small plush coffee-cup bag beside her">
+  <img src="{{ '/assets/images/elisa.jpg' | relative_url }}" alt="elisa pic">
 </figure>
 
-I'm Elisa, a developer based in Toronto, Canada. Most of my work is on the
-Microsoft Power Platform: Power Apps, Power Automate, and SharePoint.
+Hi, I'm Elisa, currently based in Toronto, Canada🍁
 
-I thought about posting on LinkedIn. A lot of people there write really good
-articles, and honestly they've given me so much inspiration. But when I
-imagined posting my own, it felt a bit scary. Everything you post there goes
-out to everyone — including people who have nothing to do with the Power
-Platform — and I'd be worrying about the comments, and whether it comes
-across like I'm just selling myself.
+I've thought about posting on LinkedIn many times. A lot of people there share really
+helpful articles, and honestly, they have inspired me a lot. But whenever I imagine
+posting something myself, it feels a little intimidating. LinkedIn feels very public,
+and I know I would overthink how people might react to what I write.
 
-So I made this site instead. It's my own place to record what I'm learning,
-at my own pace. I'm still fairly new to this, which probably means the
-problems I run into are the same ones other beginners hit. If you found your
-way here with the same question, I hope something here helps.
+So this is a place where I can keep sharing what I am learning, the problems
+I run into, and the solutions that worked for me. I am still building my
+experience with the Power Platform, and I know many other junior developers
+probably run into the same problems. If you found this site while looking for
+the same answer, I hope something here helps🪄
 
-## What I work with
+## What I Work With
 
-- **Power Platform:** Power Apps (Canvas), Power Automate, Power BI
-- **Microsoft 365:** SharePoint (lists, permissions), Outlook integration
-- **Also:** [languages / tools you want to highlight]
+- **Power Platform:** Power Apps (Canvas), Power Automate, and Power BI
+- **Microsoft 365:** SharePoint, Microsoft Forms, and Outlook
+- **Programming and Data:** C++, C#, Python, JavaScript, and SQL
+- **Other Tools:** Git, GitHub, PowerShell, REST APIs, and JSON
+
+I am not an expert in everything listed here.
+Some are tools I use regularly, while others are skills I learned through
+school or previous projects and am still building on.
 
 ## Certifications
 
-- [Certification name, e.g. PL-900: Power Platform Fundamentals]
-- [Other certifications]
+- Microsoft Certified: Power Platform Fundamentals (PL-900)
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Cloud Practitioner
 
-## The pastry part
+## The Pastry Side of Me 🍰🍡🍩
 
-Outside of work, I'm a pastry person. Cakes, desserts, a nice drink to go
-with them — I love all of it. I'm the kind of person who will happily travel
-20 or 30 kilometres, sometimes two or three hours, just to try a dessert
-that's new or a little special.
+I'm also a big pastry person.
+I love cakes, desserts, gelato, and finding new cafés around Toronto.
+I am the kind of person who will travel 10 or 20 kilometres, and sometimes spend
+two or three hours, just to try a dessert that looks interesting.
 
-I'm in Toronto, and over the years I've built up quite a collection of
-hidden gems — my Google Maps lists are basically nothing but pastry and
-coffee places. If you want a recommendation, just ask. And if you know a
-good spot I haven't found yet, please, please tell me.
+If you need a recommendation, feel free to ask!
+And if you have a hidden gem, please share it with me 🐱
 
 ## Get in touch
 
-You can reach me at [your email], or find me on
-[GitHub](https://github.com/{{ site.author.github }}).
+You can reach me at eeelisa122.tw@gmail.com, or find me on
+[LinkedIn](https://www.linkedin.com/in/rongchen122/).
