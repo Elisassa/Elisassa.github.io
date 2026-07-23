@@ -239,9 +239,13 @@ main { padding-top: 2.8rem; }
 .cv-download:hover { background: var(--accent-soft); text-decoration: none; }
 
 /* About page photo */
-.about-photo { margin: 0 0 2rem; }
+.about-photo { margin: 0 0 2.2rem; text-align: center; }
 .about-photo img {
-  width: 100%; height: auto; border-radius: 12px; display: block;
+  width: min(400px, 100%);
+  height: auto;
+  border-radius: 14px;
+  box-shadow: 0 10px 30px rgba(22, 25, 29, .12);
+  display: inline-block;
 }
 
 /* Make the whole project card clickable */
