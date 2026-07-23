@@ -243,3 +243,11 @@ main { padding-top: 2.8rem; }
 .about-photo img {
   width: 100%; height: auto; border-radius: 12px; display: block;
 }
+
+/* Make the whole project card clickable */
+.project-card { position: relative; }
+.project-card h3 a::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+}
